@@ -6,7 +6,10 @@
   "keywords": [],
   "dependencies": {
     "include-all": "~0.1.6",
+    "jwt-simple": "^0.5.0",
+    "moment": "^2.12.0",
     "rc": "1.0.1",
+    "request": "^2.69.0",
     "sails": "~0.12.1",
     "sails-disk": "~0.10.9"
   },
@@ -17,7 +20,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gail/election.git"
+    "url": "git://github.com/gailsteiger/election.git"
   },
   "author": "gail",
   "license": ""
